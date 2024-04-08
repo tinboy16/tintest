@@ -6,6 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "tinboy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinboy16/tintest.git"
+  },
+  "keywords": [
+    "tinboy",
+    "tintest",
+    "nano",
+    "npmtest"
+  ],
+  "bugs": {
+    "url": "https://github.com/tinboy16/tintest/issues"
+  },
+  "homepage": "https://github.com/tinboy16/tintest#readme"
 }
