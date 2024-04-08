@@ -1,6 +1,6 @@
 {
   "name": "tintest",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "test gaem",
   "main": "index.js",
   "scripts": {
